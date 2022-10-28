@@ -1,1 +1,1 @@
-# minChess
+# miniChess
